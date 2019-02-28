@@ -1,5 +1,5 @@
 #@author: Aditya Kumar Menon
-#@author: Jason
+#@author: Jason Khan
 #Will calculate the score between 2 strings
 def score(linestring0,linestring1):
     #Splits strings into arrays
